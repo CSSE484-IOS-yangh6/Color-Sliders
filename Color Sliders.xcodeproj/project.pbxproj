@@ -13,6 +13,9 @@
 		E45DCFA3257A2A1C00D11C17 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E45DCFA1257A2A1C00D11C17 /* Main.storyboard */; };
 		E45DCFA5257A2A1E00D11C17 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E45DCFA4257A2A1E00D11C17 /* Assets.xcassets */; };
 		E45DCFA8257A2A1E00D11C17 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E45DCFA6257A2A1E00D11C17 /* LaunchScreen.storyboard */; };
+		E45DCFB3257A7B3B00D11C17 /* Icon-72.png in Resources */ = {isa = PBXBuildFile; fileRef = E45DCFB0257A7B3A00D11C17 /* Icon-72.png */; };
+		E45DCFB4257A7B3B00D11C17 /* Icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E45DCFB1257A7B3B00D11C17 /* Icon@2x.png */; };
+		E45DCFB5257A7B3B00D11C17 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = E45DCFB2257A7B3B00D11C17 /* Icon.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +27,9 @@
 		E45DCFA4257A2A1E00D11C17 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E45DCFA7257A2A1E00D11C17 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E45DCFA9257A2A1E00D11C17 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E45DCFB0257A7B3A00D11C17 /* Icon-72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-72.png"; sourceTree = "<group>"; };
+		E45DCFB1257A7B3B00D11C17 /* Icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon@2x.png"; sourceTree = "<group>"; };
+		E45DCFB2257A7B3B00D11C17 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +64,9 @@
 			children = (
 				E45DCF9B257A2A1C00D11C17 /* AppDelegate.swift */,
 				E45DCF9D257A2A1C00D11C17 /* SceneDelegate.swift */,
+				E45DCFB0257A7B3A00D11C17 /* Icon-72.png */,
+				E45DCFB2257A7B3B00D11C17 /* Icon.png */,
+				E45DCFB1257A7B3B00D11C17 /* Icon@2x.png */,
 				E45DCF9F257A2A1C00D11C17 /* ViewController.swift */,
 				E45DCFA1257A2A1C00D11C17 /* Main.storyboard */,
 				E45DCFA4257A2A1E00D11C17 /* Assets.xcassets */,
@@ -124,9 +133,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E45DCFB5257A7B3B00D11C17 /* Icon.png in Resources */,
 				E45DCFA8257A2A1E00D11C17 /* LaunchScreen.storyboard in Resources */,
+				E45DCFB3257A7B3B00D11C17 /* Icon-72.png in Resources */,
 				E45DCFA5257A2A1E00D11C17 /* Assets.xcassets in Resources */,
 				E45DCFA3257A2A1C00D11C17 /* Main.storyboard in Resources */,
+				E45DCFB4257A7B3B00D11C17 /* Icon@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
